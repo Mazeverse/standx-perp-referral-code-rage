@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ae4ff"/>
+      <stop offset="1" stop-color="#9b7bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b1020"/>
+  <circle cx="250" cy="180" r="260" fill="url(#g)" opacity="0.35"/>
+  <circle cx="940" cy="260" r="320" fill="url(#g)" opacity="0.25"/>
+  <text x="80" y="285" fill="#e8ecff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800">StandX Perp Referral</text>
+  <text x="80" y="360" fill="#b6c0ff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Invite code: rage</text>
+  <text x="80" y="420" fill="#b6c0ff" font-family="Inter, Arial, sans-serif" font-size="26">Copy code • Open the official link</text>
+</svg>
